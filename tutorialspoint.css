@@ -1,0 +1,229 @@
+.navbar-nav{
+	display: inline;
+
+}
+.nav-item{
+	list-style-type: none;
+	display: inline;
+}
+.background-image{
+	background-image: url('important/image112.png');
+    float: right;
+	background-repeat: no-repeat;
+}
+.background-color{
+	background-color: #031926 ;
+	height: 525px;
+}
+.simply-para{
+    font-size: 50px;
+    color: white;
+}
+.simply-para-span{
+	color: #049f2e  ;
+	font-size: 50px;
+}
+.simply-para2{
+	color: white;
+	font-size: 14px;
+
+}
+.cnt-2-color{
+	background-color: #06141c ;
+	border-radius: 10px;
+	height: 130px;
+}
+.container-2-img1{
+	margin-top: 25px;
+	margin-left: 20px;
+}
+.container-2-img1-text{
+	color: white;
+	font-size: 30px;
+}
+.container-2-img1-text-span{
+	color: white;
+	font-size: 15px;
+}
+.start-learning{
+    font-size: 50px;
+}
+.start-learning-span{
+	font-size: 50px;
+	color: #04af2f ;
+
+}
+.start-learning-para{
+	text-align: center;
+	font-size: 20px;
+
+}
+.start-learning-para2{
+	text-align: center;
+	font-size: 20px;
+}
+.cont-3{
+	border: 1px solid green;
+	height: 380px;
+	border-radius: 10px;
+	background-color: #f4f4f4;
+}
+.cont-3-para{
+	font-size: 17px;
+}
+.card1{
+	border-radius: 10px;
+	height: 150px;
+	background-color: white;
+}
+.card1-img{
+	height: 100px;
+	margin-top: 20px;
+}
+.cont-4{
+	background-color: #06141c;
+	height: 500px;
+}
+.coding-heading{
+	color: white;
+	font-size: 50px;
+
+}
+.coding-heading-span{
+	color: #04af2f;
+	font-size: 50px;
+}
+.coding-para-bckgrnd-color{
+	background-color: yellow;
+	height: 40px;
+	margin-left: 12px;
+
+}
+.coding-para-2{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.coding-para-3{
+	color: white;
+	font-size: 15px;
+
+}
+.btn-success-1{
+	width: 350px;
+}
+.tutorial-library{
+	font-size: 56px;
+
+}
+.tutorial-library-span{
+	color: #04af2f ;
+	font-size: 56px;
+}
+.tutorial-library-para{
+
+}
+
+.contner-6{
+	background-color: #e4ffe5;
+	height: 500px;
+	
+	
+}
+.top-categories{
+	font-size: 50px;
+
+}
+.top-categories-span{
+    color: #04af2f ;
+}
+.tc-card1{
+	border: 1px solid green;
+	border-radius: 10px;
+	height: 120px;
+	background-color: white;
+}
+.tc-card1-img{
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.tc-card1-text{
+	font-size: 20px;
+}
+.tc-card1-text2{
+	margin-top: -10px;
+}
+.card-space{
+	margin-top: 10px;
+}
+.tutorial-library-card1{
+	border: 1px solid green;
+	border-radius: 10px;
+}
+.tutorial-library-card1-para{
+
+}
+.tutorial-library-card1-img{
+	height: 40px;
+	width :40px;
+}
+.certifications-heading{
+	font-size: 50px;
+}
+/*.btn-success{
+	float: right;
+}*/
+.certifications-para{
+	font-size: 18px;
+}
+.certifications-card{
+	background-color: white;
+	height: 400px;
+	border-radius: 10px;
+	width: 90%;
+
+
+}
+.certifications-card-img{
+	height: 150px;
+	width: 90%;
+	border: 10px;
+	border-top-left-radius:10px ;
+	border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+	border-bottom-right-radius:10px ;
+}
+.certifications-card-para{
+	font-size: 17px;
+	margin-top: 10px;
+}
+.certifications-card-para2{
+	font-size: 17px;
+}
+.btn-success{
+    width: 200px;
+    margin-left: 15px;
+}
+.certifications-card-btn{
+	height: 35px;
+	width: 35px;
+	border: 1px solid green;
+	background-color: green;
+	float: left;
+	border-radius: 5px;
+}
+.latest-courses{
+	font-size: 60px;
+}
+.latest-courses-span{
+	color: #04af2f;
+}
+.contner-7{
+	background-color: #bfe4f5 ;
+}
+.latest-courses-para{
+	margin-top: -10px;
+}
+.latest-courses-para2{
+	font-size: 20px;
+}
